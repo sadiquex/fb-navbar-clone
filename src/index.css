@@ -14,7 +14,7 @@ code {
 
 body {
   margin: 0;
-  background: #151616;
+  /* background: #151616; */
   font-family: roboto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -113,7 +113,7 @@ a {
 }
 
 .menu {
-  width: 100%;
+  /* width: 100%; */
 }
 
 .menu-item {
